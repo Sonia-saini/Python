@@ -27,6 +27,10 @@
 # Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
 # Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
 # Example
+my_string = "Hello, World!"
+# getting input from terminal
+user_input=input()
+print(my_string)
 print("hello world")
 if 5 > 2:
   print("Five is greater than two!")
@@ -34,3 +38,5 @@ if 5 > 2:
 x=5
 y="sonia"
 print(x,y)
+print(type(my_string),user_input)
+# how to print in terminal python filename.py

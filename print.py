@@ -40,3 +40,7 @@ y="sonia"
 print(x,y)
 print(type(my_string),user_input)
 # how to print in terminal python filename.py
+x = "Python "
+y = "is "
+z = "awesome"
+print(x + y + z)

@@ -1,0 +1,5 @@
+Comments starts with a #, and Python will ignore them:
+exmaple 
+#This is a comment
+print("Hello, World!")
+for multiline comment we used triple interted commas just like that (''' this ''')
